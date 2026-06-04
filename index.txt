@@ -1,0 +1,3 @@
+ pathfinding context
+ tile context
+ speed context
